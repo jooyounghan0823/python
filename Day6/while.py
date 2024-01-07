@@ -32,4 +32,5 @@ while True:
         one = int(input("숫자를입력:"))
         two = int(input("숫자를 입력:"))
         print(one+two)
-        elif cod
+
+
